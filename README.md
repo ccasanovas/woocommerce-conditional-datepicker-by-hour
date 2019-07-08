@@ -25,6 +25,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 4- Pegarlo en la última línea de functions.php alojado en tu hosting-
 
 5- Disfrutar!
+                            
+                            
                             ------/////////                   /////////--------------
                             
 1- Access the public file in the folder wordpress / wp-content / themes / (Your theme) /functions.php
