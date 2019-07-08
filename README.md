@@ -25,7 +25,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 4- Pegarlo en la última línea de functions.php alojado en tu hosting-
 
 5- Disfrutar!
-                            
+
+Este código es libre, si lo consideras útil y la vida nos encuentra algún día espero puedas agradecermelo invitandome una cerveza! Enjoy!
+
                             
                             ------/////////                   /////////--------------
                             
@@ -39,7 +41,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 5- Enjoy!
 
-
-Este código es libre, si lo consideras útil y la vida nos encuentra algún día espero puedas agradecermelo invitandome una cerveza! Enjoy!
 
 This code is free, if you consider it useful and life finds us some day I hope you can thank me for it, inviting me a beer! Enjoy!
